@@ -1,0 +1,5 @@
+Set up vscode as default editor for git
+https://stackoverflow.com/questions/30024353/how-to-use-visual-studio-code-as-default-editor-for-git
+
+Set up GDB on vscode
+

@@ -1,0 +1,53 @@
+" Disable compatibility with vi
+set nocompatible
+
+" File type detection
+filetype on
+
+" Enable and load plugins for detected file type
+filetype plugin on
+
+" Load indent plugin for detected file type
+filetype indent on
+
+" Syntax highlighting
+syntax on
+
+" Line numbers
+set number
+
+" Vertical line at column 80
+set colorcolumn=80
+
+" Highlight entire line with cursor
+set cursorline
+
+" Shiftwidth = 2 columns
+set shiftwidth=2
+
+" Tab width = 4 columns
+set tabstop=4
+
+" Tab uses space characters, not tab characters
+set expandtab
+
+" Do not wrap lines
+set nowrap
+
+" Using search, incrementally match characters while typing
+set incsearch
+
+" Caseless search
+set ignorecase
+
+" Show the mode we are in on last line
+set showmode
+
+" Show matching words during search
+set showmatch
+
+" Highlight during search
+set hlsearch
+
+" Allow mouse
+set mouse=a
